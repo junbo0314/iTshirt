@@ -4,3 +4,5 @@ local에서 변경한 내용이 있다면 저장한 후
 1. git add "FILE NAME"
 2. git commit -m "설명 업데이트"를 해주시길 바랍니다.
 #commit의 종류를 확인하고 싶다면 git checkout을 해주시길 바랍니다.
+
+다른 파일에서 remote 저장소의 변경사항을 받고 싶다면 git pull origin DIRL입력 바랍니다.
